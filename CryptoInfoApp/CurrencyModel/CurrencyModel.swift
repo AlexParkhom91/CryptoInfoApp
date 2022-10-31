@@ -1,6 +1,6 @@
 import Foundation
 
-struct CryptoModel: Codable {
+struct CurrencyModel: Codable {
     let name: String
     let price: Double?
     let id: String
